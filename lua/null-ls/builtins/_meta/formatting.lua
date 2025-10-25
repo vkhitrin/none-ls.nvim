@@ -217,6 +217,9 @@ return {
   npm_groovy_lint = {
     filetypes = { "groovy", "java", "Jenkinsfile" }
   },
+  mbake = {
+    filetypes = { "make" }
+  },
   ocamlformat = {
     filetypes = { "ocaml" }
   },
